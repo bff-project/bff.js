@@ -1,0 +1,19 @@
+{
+  "name": "bff.js",
+  "version": "1.0.0",
+  "description": "BFF.js JavaScript Framework",
+  "main": "bff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bff-project/bff.js.git"
+  },
+  "author": "BFF Project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bff-project/bff.js/issues"
+  },
+  "homepage": "https://github.com/bff-project/bff.js#readme"
+}
