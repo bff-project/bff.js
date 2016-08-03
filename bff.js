@@ -356,8 +356,8 @@ var bff = function () {
   }
 
   function toggleDevTarget() {
-    $('.bff-devmode-option').click(function() {
-      $(this).parents('.bff-devmode-options').find('.bff-devmode-option').each(function() {
+    $('.bff-devmode div a').click(function() {
+      $(this).parents('div').find('a').each(function() {
         $(this).removeClass('selected');
         $($(this).data('target')).hide();
       });
